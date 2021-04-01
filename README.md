@@ -1,1 +1,1 @@
-Simple script to check IP addresses and CIDR/ranges reputation scores against the AbuseIPDB API. 
+Simple script to check IP addresses and CIDR/range reputation scores against the AbuseIPDB API. 
