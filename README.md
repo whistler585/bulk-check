@@ -1,1 +1,1 @@
-# bulk-check
+Simple script to check IP addresse and CIDR/ranges reputations against the AbuseIPDB API. 
